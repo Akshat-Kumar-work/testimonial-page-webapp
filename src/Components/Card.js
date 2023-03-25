@@ -5,7 +5,7 @@ let review = props.review;
     return(
         <div className=' flex flex-col md:relative '>
 
-                <div className='absolute top-[-7rem] z-[10] mx-auto'>
+                <div className='md:absolute top-[-7rem]  md:z-[10] mx-auto '>
                     {review.image}
                     <div className='w-[140px] h-[140px] bg-violet-500  absolute top-[-6px] z-[-9] rounded-full left-[10px]'></div>
                 </div>
