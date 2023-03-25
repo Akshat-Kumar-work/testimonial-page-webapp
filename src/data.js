@@ -2,7 +2,7 @@ const reviews = [
   {
     id: 1,
     name: "Akshat Kumar",
-    job: "Software Devloper",
+    job: "Software Developer",
     image: <img  className="w-[140px] h-[140px] z-[25] aspect-square  rounded-full "
     src={require('./images/akshat.jpg')}></img>,
     text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
